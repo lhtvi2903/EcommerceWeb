@@ -26,7 +26,7 @@ const Header = () => {
           <div className='row '>
             <div className='col-2 mb-0'>
               <h2>
-                <Link className='text-white'>DevCorner</Link>
+                <Link className='text-white'>EveraShop</Link>
               </h2>
             </div>
             <div className='col-5'>
